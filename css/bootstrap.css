@@ -94,11 +94,22 @@ figure {
   margin: 1em 40px;
 }
 hr {
+    height: 3px;
+    background-color: rgb(221, 221, 221);
+    background-image: repeating-linear-gradient(-45deg, rgb(255, 255, 255), rgb(255, 255, 255) 4px, transparent 4px, transparent 8px);
+    margin: 40px 0px;
+    border-width: initial;
+    border-style: none;
+    border-color: initial;
+    border-image: initial;
+}
+
+/*hr {
   height: 0;
   -webkit-box-sizing: content-box;
      -moz-box-sizing: content-box;
           box-sizing: content-box;
-}
+}*/
 pre {
   overflow: auto;
 }
