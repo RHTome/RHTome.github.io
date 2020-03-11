@@ -2,9 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://rhtome.github.io/2020/03/11/%25E6%2589%25B9%25E5%2588%25A4%25E6%2580%259D%25E7%25BB%25B4/</loc>
+    
+    <lastmod>2020-03-11T08:25:02.463Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://rhtome.github.io/2020/02/23/anki/</loc>
     
-    <lastmod>2020-02-23T14:24:25.095Z</lastmod>
+    <lastmod>2020-03-11T08:15:50.855Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://rhtome.github.io/2020/03/11/%25E7%2595%25AA%25E8%258C%2584%25E5%25B7%25A5%25E4%25BD%259C%25E6%25B3%2595/</loc>
+    
+    <lastmod>2020-03-11T07:12:54.982Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://rhtome.github.io/2020/03/11/%25E5%25B7%25A5%25E4%25BD%259C%25E6%25B5%2581/</loc>
+    
+    <lastmod>2020-03-11T07:01:39.797Z</lastmod>
     
   </url>
   
@@ -37,7 +58,7 @@
   </url>
   
   <url>
-    <loc>https://rhtome.github.io/tags/index.html</loc>
+    <loc>https://rhtome.github.io/categories/index.html</loc>
     
     <lastmod>2020-02-21T12:13:51.000Z</lastmod>
     
@@ -51,7 +72,7 @@
   </url>
   
   <url>
-    <loc>https://rhtome.github.io/categories/index.html</loc>
+    <loc>https://rhtome.github.io/tags/index.html</loc>
     
     <lastmod>2020-02-21T12:13:51.000Z</lastmod>
     
